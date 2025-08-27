@@ -1,5 +1,3 @@
-# ProjektZaliczeniowyCDV
-
 # AirMonitor - Testy jednostkowe
 
 Ten projekt zawiera moduły do pobierania danych o stacjach pomiarowych oraz wizualizacji na mapie.

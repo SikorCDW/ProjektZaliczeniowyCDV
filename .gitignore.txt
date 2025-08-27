@@ -1,0 +1,34 @@
+# PyCharm / IDE
+.idea/
+.vscode/
+
+# Virtualenv
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+
+# Testy i narzędzia
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+.ruff_cache/
+
+# Notebooks & system
+.ipynb_checkpoints/
+.DS_Store
+*.log
+
+# Sekrety
+.env
+.env.*
